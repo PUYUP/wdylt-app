@@ -1,1 +1,5 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.wdylt.app",
+               "sha256_cert_fingerprints": ["CC:E7:23:EA:17:33:F5:3D:D8:63:60:88:A0:9D:31:0C:44:A8:BD:76:8F:C0:46:E2:B6:78:9A:CE:FE:75:69:7C"] }
+}]
