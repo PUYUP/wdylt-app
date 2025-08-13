@@ -1,13 +1,15 @@
 [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls"
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.wdylt.app",
       "sha256_cert_fingerprints": [
-        "74:25:A1:D0:5C:C7:4F:5A:3D:E6:0A:80:CF:0A:0D:2F:4B:20:A2:BC:12:57:AF:CD:02:56:61:6C:88:FC:2E:40"
+        "74:25:A1:D0:5C:C7:4F:5A:3D:E6:0A:80:CF:0A:0D:2F:4B:20:A2:BC:12:57:AF:CD:02:56:61:6C:88:FC:2E:40",
+        "C6:76:AB:51:4F:4F:17:78:3D:2F:AA:74:16:BA:C6:CE:01:F2:B4:04:B5:AA:2D:81:FC:61:F2:FA:96:1F:DF:20"
       ]
     }
   }
